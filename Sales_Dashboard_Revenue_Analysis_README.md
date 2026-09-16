@@ -1,10 +1,10 @@
-# 📊 Sales Dashboard & Revenue Analysis | Microsoft Excel
+# Sales Dashboard & Revenue Analysis | Microsoft Excel
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing sales and business performance data using Microsoft Excel. The analysis includes data cleaning, missing value handling, revenue calculation, Pivot Tables, and dashboard creation to generate meaningful business insights.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Microsoft Excel
 - Excel Formulas
@@ -14,7 +14,7 @@ This project focuses on analyzing sales and business performance data using Micr
 - Data Analysis
 - Data Visualization
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains order-level sales information including:
 
@@ -29,7 +29,7 @@ The dataset contains order-level sales information including:
 - Unit Price
 - Unit Cost
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The following data-cleaning activities were performed:
 
@@ -40,7 +40,7 @@ The following data-cleaning activities were performed:
 - Identified zero or extremely low Unit Price and Unit Cost values.
 - Used Conditional Formatting to identify blank cells.
 
-## 🧮 Excel Analysis Performed
+##  Excel Analysis Performed
 
 - Calculated Total Revenue using Units Sold × Unit Price.
 - Calculated average profit by region.
@@ -51,7 +51,7 @@ The following data-cleaning activities were performed:
 - Identified top-performing categories and regions.
 - Created summary tables using Pivot Tables.
 
-## 📊 Dashboard
+## Dashboard
 
 The project includes a Business Performance Dashboard containing:
 
@@ -63,7 +63,7 @@ The project includes a Business Performance Dashboard containing:
 - Order Count by Region
 - Category, Region, and Order Priority filters
 
-## 🔍 Key Insights
+##  Key Insights
 
 - East region recorded the highest average profit per order.
 - West region had the highest number of orders.
@@ -72,10 +72,10 @@ The project includes a Business Performance Dashboard containing:
 - South recorded comparatively lower average profit.
 - Several data-quality issues were identified, including missing/zero values.
 
-## 💡 Business Objective
+##  Business Objective
 
 The objective of this project is to demonstrate practical Microsoft Excel skills for data analysis, including data cleaning, formula-based calculations, Pivot Tables, data visualization, and extracting business insights from sales data.
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 Excel | Data Cleaning | Data Analysis | Pivot Tables | Data Visualization | Conditional Formatting | AVERAGEIFS | Revenue Analysis | Business Insights
