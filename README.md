@@ -1,16 +1,16 @@
 # SQL Employee & Sales Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing employee, department, and sales data using MySQL. The analysis uses SQL queries to extract meaningful business insights from relational datasets.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - MySQL
 - SQL
 - MySQL Workbench
 
-## 📂 Datasets
+##  Datasets
 
 The project contains three main datasets:
 
@@ -18,7 +18,7 @@ The project contains three main datasets:
 - Department
 - Sales
 
-## 🔍 SQL Concepts Used
+## SQL Concepts Used
 
 - SELECT
 - WHERE
@@ -34,7 +34,7 @@ The project contains three main datasets:
 - SUM()
 - MAX()
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### Basic Analysis
 - Identified employees earning above the average salary.
@@ -57,15 +57,15 @@ The project contains three main datasets:
 - Found the employee with the second-highest sale.
 - Compared employee salaries with the highest recorded sale amount.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The objective of this project is to demonstrate practical SQL skills for data analysis, including querying relational data, joining tables, using subqueries, performing aggregations, and generating business-oriented insights.
 
-## 📁 Project Files
+##  Project Files
 
 - `SQL Employee & Sales Data Analysis.sql` — SQL database setup, datasets, and analysis queries.
 - `SQL Employee & Sales Data Analysis MySQL.pdf` — Project documentation.
 
-## 👩‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 SQL | MySQL | Data Analysis | Data Extraction | Data Aggregation | Business Insights
